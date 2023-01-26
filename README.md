@@ -1,3 +1,4 @@
+![screenshot](https://user-images.githubusercontent.com/122834927/214745802-5f75fefa-88f9-4b98-8f8d-fdbc839c6fab.PNG)
 # Horiseon
 
 ## Description
@@ -21,11 +22,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 Provide instructions and examples for use. Include screenshots as needed.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![screenshot](https://user-images.githubusercontent.com/122834927/214745802-5f75fefa-88f9-4b98-8f8d-fdbc839c6fab.PNG)
 
 ## Credits
 
