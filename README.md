@@ -1,4 +1,3 @@
-![screenshot](https://user-images.githubusercontent.com/122834927/214745802-5f75fefa-88f9-4b98-8f8d-fdbc839c6fab.PNG)
 # Horiseon
 
 ## Description
