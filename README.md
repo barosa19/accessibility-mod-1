@@ -2,24 +2,15 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-
+This website was created for Horiseon, a marketing agency, to provide a central places to show companies the importance of hiring Horiseon to market their company. As mentioned the reason this page was built was to highlight the importance of   reasons why companies.
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+No installation is required for this application. To visit the the webpage open your default browser and go to: https://barosa19.github.io/horiseon/. To get to the development environment go to: https://github.com/barosa19/horiseon.git. 
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+This web application is designed to provide a central places to show companies the importance of hiring Horiseon to market their company.
 
 ![screenshot](https://user-images.githubusercontent.com/122834927/214745802-5f75fefa-88f9-4b98-8f8d-fdbc839c6fab.PNG)
 
